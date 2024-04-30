@@ -7,7 +7,7 @@ import datetime
 PERSONAL_RATE = 0.042
 TAX_RELIEF = 0.33
 
-#define global variables
+# define global variables
 relief = 2 #1 means qualified, 2 means non-qualified
 relief_amt = 0
 assesed_value = 0
